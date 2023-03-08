@@ -1,1 +1,17 @@
-zupee app
+ {
+    "ads": {"network":"applovin","url":""},
+    "reword": {"items":""},
+    
+    "fan": {
+    "banner":"",
+    "inter":"",
+    "nativ":"",
+    "reword":""},
+    
+    "applovin": {
+    "banner":"727ee166de924291",
+    "inter":"9a549661fbea804a",
+    "nativ":"eb407a3ded67080d",
+    "reword":"8d5d2673c9b754b4"}
+      
+    } 
